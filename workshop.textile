@@ -1,0 +1,80 @@
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+% Start off with some headers
+
+Title: Event Planning for Geeks
+Author: Christie Koehler, Sherri Montgomery, and Audrey Eschright
+Generator: self
+
+%css
+
+body {
+    font-family: 'Helvetica Neue', Helvetica, sans-serif;
+}
+
+%end
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+% Start Presentation
+
+h1. Event Planning for Geeks
+
+h1. What kind of event do you want to have?
+
+* Conference
+* Unconference
+* Code Sprint
+* Hackathon
+* Workshop
+
+!images/txtyme_hacking.jpg!
+
+h1. Assemble and organize your team
+
+!images/mayor_and_citizens.jpg!
+
+h1. Find a venue for your event
+
+
+
+h1. Raise money and pay for things
+
+
+
+h1. Recruit and manage your volunteers
+
+
+
+h1. Set the event format and schedule
+
+
+
+h1. Make sure the right people will show up
+
+
+
+h1. Register the attendees (ticket sales and more)
+
+
+
+h1. Get insurance (when you need it), deal with liability, and respond when things go wrong
+
+
+
+h1. Design and purchase event materials
+
+
+
+h1. Communicate with attendees
+
+
+
+h1. Set up on site: fun with venue logistics
+
+
+
+h1. Keep it safe, fun, and welcoming: codes of conduct, after parties, and considerations for serving alcohol
+
+
+
+h1. Continue on: keep the momentum once your first event is over
+
