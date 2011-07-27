@@ -11,12 +11,25 @@ body {
     font-family: 'Helvetica Neue', Helvetica, sans-serif;
 }
 
+img {
+    padding-left: 324px;
+}
+
+.caption {
+    font-size: 12px;
+    text-align: center;
+}
+
 %end
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 % Start Presentation
 
 h1. Event Planning for Geeks
+
+!images/hackers.jpg!
+
+p(caption). John Labovitz
 
 h1. Who are we?
 
@@ -48,13 +61,19 @@ h1. What kind of event do you want to have?
 
 !images/txtyme_hacking.jpg!
 
+p(caption). Reid Beels
+
 h1. Assemble and organize your team
 
 !images/mayor_and_citizens.jpg!
 
+p(caption). Reid Beels
+
 h1. Find a venue for your event
 
+!images/bike_parking.jpg!
 
+p(caption). Ankur Naik
 
 h1. Raising money 
 
@@ -102,11 +121,15 @@ Don't represent yourself as being able to take tax-deductible donations if you a
 
 h1. Recruit and manage your volunteers
 
+!images/volunteer.jpg!
 
+p(caption). Reid Beels
 
 h1. Set the event format and schedule
 
+!images/schedule_board.jpg!
 
+p(caption). Reid Beels
 
 h1. Make sure the right people will show up
 
@@ -114,7 +137,9 @@ h1. Make sure the right people will show up
 
 h1. Register the attendees (ticket sales and more)
 
+!images/registration.jpg!
 
+p(caption). Reid Beels
 
 h1. Get insurance (when you need it), deal with liability, and respond when things go wrong
 
@@ -147,3 +172,8 @@ If you want your event to be different from that status quo, you'll need to acti
 
 h1. Continue on: keep the momentum once your first event is over
 
+h1. Find out more
+
+We started an event planning handbook at
+
+"http://stumptownsyndicate.org/wiki/doku.php?id=event_planning_handbook":http://stumptownsyndicate.org/wiki/doku.php?id=event_planning_handbook

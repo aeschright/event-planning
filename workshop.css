@@ -93,3 +93,12 @@ body {
     font-family: 'Helvetica Neue', Helvetica, sans-serif;
 }
 
+img {
+    padding-left: 324px;
+}
+
+.caption {
+    font-size: 12px;
+    text-align: center;
+}
+
