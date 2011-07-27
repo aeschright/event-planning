@@ -12,7 +12,11 @@ body {
 }
 
 img {
-    padding-left: 324px;
+    padding: 0 0 0 324px;
+}
+
+.half img {
+    padding: 0 100px 0 0;
 }
 
 .caption {
@@ -53,13 +57,17 @@ How to get started planning your own event, in your own community, and resources
 
 h1. What kind of event do you want to have?
 
+<% left do %>
 * Conference
 * Unconference
 * Code Sprint
 * Hackathon
-* Workshop
+* Workshop  
+<% end %>
 
-!images/txtyme_hacking.jpg!
+<% right do %>
+p(half). !images/txtyme_hacking.jpg!
+<% end %>
 
 p(caption). Reid Beels
 
@@ -107,7 +115,9 @@ p(caption). Reid Beels
 
 h1. Get insurance (when you need it), deal with liability, and respond when things go wrong
 
+!images/creepius.jpg!
 
+p(caption). Reid Beels
 
 h1. Design and purchase event materials
 

@@ -47,7 +47,11 @@ body {
 }
 
 img {
-    padding-left: 324px;
+    padding: 0 0 0 324px;
+}
+
+.half img {
+    padding: 0 120px 0 0;
 }
 
 .caption {
@@ -98,14 +102,26 @@ for princexml (CSS3 paged media support)
 
 </div>
 <div class='slide '>
-<h1>What kind of event do you want to have?</h1><ul>
+<h1>What kind of event do you want to have?</h1><!-- begin left {} -->
+<table width='100%'><tr><td width='50%' markdown='block' style='vertical-align: top;'>
+
+<ul>
 	<li>Conference</li>
 	<li>Unconference</li>
 	<li>Code Sprint</li>
 	<li>Hackathon</li>
 	<li>Workshop</li>
 </ul>
-<p><img src="images/txtyme_hacking.jpg" alt="" /></p>
+</td>
+<!-- end left -->
+
+<!-- begin right {} -->
+<td width='50%' markdown='block' style='vertical-align: top;'>
+
+<p class="half"><img src="images/txtyme_hacking.jpg" alt="" /></p>
+</td></tr></table>
+<!-- end right -->
+
 <p class="caption">Reid Beels</p>
 
 </div>
@@ -143,7 +159,10 @@ for princexml (CSS3 paged media support)
 
 </div>
 <div class='slide '>
-<h1>Get insurance (when you need it), deal with liability, and respond when things go wrong</h1></div>
+<h1>Get insurance (when you need it), deal with liability, and respond when things go wrong</h1><p><img src="images/creepius.jpg" alt="" /></p>
+<p class="caption">Reid Beels</p>
+
+</div>
 <div class='slide '>
 <h1>Design and purchase event materials</h1></div>
 <div class='slide '>
