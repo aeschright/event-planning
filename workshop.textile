@@ -195,6 +195,7 @@ h1. Continue on
 h2. Keep the momentum once your first event is over
 
 * Gather feedback from attendees
+* Make sure you can contact everyone: collect email addresses, set up a mailing list
 * Schedule a retrospective for your team
 * Make plans for the next event
 
