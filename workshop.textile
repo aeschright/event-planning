@@ -11,12 +11,13 @@ body {
     font-family: 'Helvetica Neue', Helvetica, sans-serif;
 }
 
-img {
-    padding: 0 0 0 324px;
+.slide h2 {
+    font-size: 24pt;
 }
 
-.half img {
-    padding: 0 100px 0 0;
+img {
+    display: block;
+    margin: 0 auto;
 }
 
 .caption {
@@ -66,10 +67,11 @@ h1. What kind of event do you want to have?
 <% end %>
 
 <% right do %>
-p(half). !images/txtyme_hacking.jpg!
-<% end %>
+!images/txtyme_hacking.jpg!
 
 p(caption). Reid Beels
+<% end %>
+
 
 h1. Assemble and organize your team
 
@@ -88,42 +90,50 @@ h1. Raising money
 p. Possible sources of income:
 
 * Contributions from individuals
-    * put a contribute link on your website
-    * allow people do contribute during registration
-    * be transparent about your expenses
+** put a contribute link on your website
+** allow people to contribute during registration
+** be transparent about your expenses
 * Contributions from companies
-    * ask you community for contacts
-    * focus on supporting the community
-    * be creative about your offerings: logo placement, job listings, mentions in email newsletters, recognition during event, videos, etc.
-    * don't let the sponsors boss you around
+** ask your community for contacts
+** focus on supporting the community
+** be creative about your offerings: logo placement, job listings, mentions in email newsletters, recognition during event, videos, etc.
+** don't let the sponsors boss you around
 * Registration fees
-    * free events are great
-    * but some events really ought to have a registration fee
+** free events are great&mdash;cost is not a barrier to attending
+** but some events really ought to have a registration fee
 * Grants
 
 h1. Paying for things
 
-p. Option 1: Have contributors pay vendors directly:
+h2. Option 1: Have contributors pay vendors directly:
 
 * Pros: Requires no setup. Sponsors know exactly what their money is going towards.
 * Cons: can be logistically difficult. Hard to pool smaller contributions to pay for expensive things.
 
-p. Option 2: Have contributors pay individuals on your planning team directly and then have those people pay for things.
+h1. Paying for things
+
+h2. Option 2: Have contributors pay individuals on your planning team directly and then have those people pay for things.
 
 * Pros: Requires no setup.
 * Cons: Can be difficult to track and is easy to abuse.
 
-p. Option 3: Use an existing organization for fiscal sponsorship.
+h1. Paying for things
+
+h2. Option 3: Use an existing organization for fiscal sponsorship.
 
 * Pros: Possible increase in contributions from 501©(x) status, ability to leverage existing organizational experience, an entity to write checks to and from.
 * Cons: A financial overhead of 15-20% is not unusual, possible lack of control, poor execution if the fiscal sponsor is inexperienced or unqualified.
 
-p. Option 4: Start your own company or non-profit.
+h1. Paying for things
+
+h2. Option 4: Start your own company or non-profit.
 
 * Pros: Control, transparency of process. Setting up a company is easier.
 * Cons: It's a lot of work and responsibility. And it takes time.
 
-p. Some other caveats:
+h1. Paying for things
+
+h2. Some other caveats:
 
 Don't represent yourself as being able to take tax-deductible donations if you are not eligible according to the IRS. Make sure you sign up for a regular business account with PayPal and Google Checkout, etc., and avoid using the words “donation” or “donate” on your website and other materials.
 

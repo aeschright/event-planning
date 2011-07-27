@@ -93,12 +93,13 @@ body {
     font-family: 'Helvetica Neue', Helvetica, sans-serif;
 }
 
-img {
-    padding: 0 0 0 324px;
+.slide h2 {
+    font-size: 24pt;
 }
 
-.half img {
-    padding: 0 120px 0 0;
+img {
+    display: block;
+    margin: 0 auto;
 }
 
 .caption {
