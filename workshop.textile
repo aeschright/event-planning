@@ -56,9 +56,49 @@ h1. Find a venue for your event
 
 
 
-h1. Raise money and pay for things
+h1. Raising money 
 
+p. Possible sources of income:
 
+* Contributions from individuals
+    * put a contribute link on your website
+    * allow people do contribute during registration
+    * be transparent about your expenses
+* Contributions from companies
+    * ask you community for contacts
+    * focus on supporting the community
+    * be creative about your offerings: logo placement, job listings, mentions in email newsletters, recognition during event, videos, etc.
+    * don't let the sponsors boss you around
+* Registration fees
+    * free events are great
+    * but some events really ought to have a registration fee
+* Grants
+
+h1. Paying for things
+
+p. Option 1: Have contributors pay vendors directly:
+
+* Pros: Requires no setup. Sponsors know exactly what their money is going towards.
+* Cons: can be logistically difficult. Hard to pool smaller contributions to pay for expensive things.
+
+p. Option 2: Have contributors pay individuals on your planning team directly and then have those people pay for things.
+
+* Pros: Requires no setup.
+* Cons: Can be difficult to track and is easy to abuse.
+
+p. Option 3: Use an existing organization for fiscal sponsorship.
+
+* Pros: Possible increase in contributions from 501©(x) status, ability to leverage existing organizational experience, an entity to write checks to and from.
+* Cons: A financial overhead of 15-20% is not unusual, possible lack of control, poor execution if the fiscal sponsor is inexperienced or unqualified.
+
+p. Option 4: Start your own company or non-profit.
+
+* Pros: Control, transparency of process. Setting up a company is easier.
+* Cons: It's a lot of work and responsibility. And it takes time.
+
+p. Some other caveats:
+
+Don't represent yourself as being able to take tax-deductible donations if you are not eligible according to the IRS. Make sure you sign up for a regular business account with PayPal and Google Checkout, etc., and avoid using the words “donation” or “donate” on your website and other materials.
 
 h1. Recruit and manage your volunteers
 
@@ -94,7 +134,16 @@ h1. Set up on site: fun with venue logistics
 
 h1. Keep it safe, fun, and welcoming: codes of conduct, after parties, and considerations for serving alcohol
 
+Unfortunately, the default in open source is not for events to be open, welcoming and safe for everyone.
 
+If you want your event to be different from that status quo, you'll need to actively work to make it different. Here are some tips for doing so:
+
+* Adopt a code of conduct
+* Be mindful when/how you provide alcohol
+* Be available for feedback
+* Be responsive to incidents
+* Recognize positive behavior along with the negative
+* Be radically inclusive: food, t-shirts and environment matter
 
 h1. Continue on: keep the momentum once your first event is over
 
