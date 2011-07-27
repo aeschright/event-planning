@@ -18,6 +18,26 @@ body {
 
 h1. Event Planning for Geeks
 
+h1. Who are we?
+
+* Audrey Eschright
+* Christie Koehler
+* Sherri Montgomery
+
+h1. We organize...
+
+* Conferences (Open Source Bridge)
+* Unconferences (BarCamp Portland, WhereCampPDX)
+* Open source code sprints
+* Workshops
+* Ignite
+* Potlucks and socials
+* and more!
+
+h1. We want to teach you...
+
+How to get started planning your own event, in your own community, and resources for learning more.
+
 h1. What kind of event do you want to have?
 
 * Conference
