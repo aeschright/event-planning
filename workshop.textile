@@ -239,7 +239,7 @@ Unfortunately, the default in open source is not for events to be open, welcomin
 
 If you want your event to be different from that status quo, you'll need to actively work to make it different. Here are some tips for doing so:
 
-* Adopt a code of conduct
+* Adopt a code of conduct: see "http://citizencodeofconduct.org":http://citizencodeofconduct.org
 * Be mindful when/how you provide alcohol
 * Be available for feedback
 * Be responsive to incidents
