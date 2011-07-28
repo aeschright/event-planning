@@ -174,7 +174,7 @@ h2. This can be done for free or cheap
 h1. Register the attendees (ticket sales and more)
 
 <% left do %>
-* Depending on the site of your event, anything from a simple webform to an online service like Eventbrite can work
+* Depending on the size of your event, anything from a simple webform to an online service like Eventbrite can work
 * If you sell tickets, you'll need decide how to handle payments
 * Plan for on-site volunteers to check people in and hand out badges/nametags
 <% end %>
