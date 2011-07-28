@@ -56,6 +56,10 @@ h1. We want to teach you...
 
 How to get started planning your own event, in your own community, and where to find resources for learning more.
 
+!images/beanbag_fun.jpg!
+
+p(caption). Reid Beels
+
 h1. What kind of event do you want to have?
 
 <% left do %>
@@ -120,7 +124,7 @@ h1. Pay for things
 
 h2. Option 3: Use an existing organization for fiscal sponsorship.
 
-* Pros: Possible increase in contributions from 501©(x) status, ability to leverage existing organizational experience, an entity to write checks to and from.
+* Pros: Possible increase in contributions from 501c(x) status, ability to leverage existing organizational experience, an entity to write checks to and from.
 * Cons: A financial overhead of 15-20% is not unusual, possible lack of control, poor execution if the fiscal sponsor is inexperienced or unqualified.
 
 h1. Pay for things
