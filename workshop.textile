@@ -84,7 +84,7 @@ h1. Find a venue for your event
 
 p(caption). Ankur Naik
 
-h1. Raising money 
+h1. Raise money
 
 p. Possible sources of income:
 
@@ -102,35 +102,35 @@ p. Possible sources of income:
 ** but some events really ought to have a registration fee
 * Grants
 
-h1. Paying for things
+h1. Pay for things
 
 h2. Option 1: Have contributors pay vendors directly:
 
 * Pros: Requires no setup. Sponsors know exactly what their money is going towards.
 * Cons: can be logistically difficult. Hard to pool smaller contributions to pay for expensive things.
 
-h1. Paying for things
+h1. Pay for things
 
 h2. Option 2: Have contributors pay individuals on your planning team directly and then have those people pay for things.
 
 * Pros: Requires no setup.
 * Cons: Can be difficult to track and is easy to abuse.
 
-h1. Paying for things
+h1. Pay for things
 
 h2. Option 3: Use an existing organization for fiscal sponsorship.
 
 * Pros: Possible increase in contributions from 501©(x) status, ability to leverage existing organizational experience, an entity to write checks to and from.
 * Cons: A financial overhead of 15-20% is not unusual, possible lack of control, poor execution if the fiscal sponsor is inexperienced or unqualified.
 
-h1. Paying for things
+h1. Pay for things
 
 h2. Option 4: Start your own company or non-profit.
 
 * Pros: Control, transparency of process. Setting up a company is easier.
 * Cons: It's a lot of work and responsibility. And it takes time.
 
-h1. Paying for things
+h1. Pay for things
 
 h2. Some other caveats:
 
