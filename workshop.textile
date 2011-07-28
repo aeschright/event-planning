@@ -148,6 +148,12 @@ h1. Set the event format and schedule
 
 p(caption). Reid Beels
 
+h1. Solicit talks or session ideas
+
+* Simple options: unconferences and hackathons often gather ideas on a wiki page or a mailing list
+* Many conferences use some kind of software to manage this process
+* We wrote an open source conference proposals and scheduling system called "OpenConferenceWare":https://github.com/igal/openconferenceware/blob/master/README.markdown that can handle everything from single-evening Ignite events to full multi-day conferences
+
 h1. Make sure the right people will show up
 
 <% left do %>
@@ -167,9 +173,17 @@ h2. This can be done for free or cheap
 
 h1. Register the attendees (ticket sales and more)
 
+<% left do %>
+* Depending on the site of your event, anything from a simple webform to an online service like Eventbrite can work
+* If you sell tickets, you'll need decide how to handle payments
+* Plan for on-site volunteers to check people in and hand out badges/nametags
+<% end %>
+
+<% right do %>
 !images/registration.jpg!
 
 p(caption). Reid Beels
+<% end %>
 
 h1. Get insurance (when you need it), deal with liability, and respond when things go wrong
 
@@ -245,7 +259,7 @@ h1. Find out more
 
 We started an event planning handbook at
 
-"http://stumptownsyndicate.org/wiki/doku.php?id=event_planning_handbook":http://stumptownsyndicate.org/wiki/doku.php?id=event_planning_handbook
+"http://stumptownsyndicate.org/wiki":http://stumptownsyndicate.org/wiki
 
 h1. Questions?
 
@@ -261,6 +275,6 @@ Audrey Eschright - "http://lifeofaudrey.com":http://lifeofaudrey.com - spinnerin
 
 Christie Koehler - "http://christiekoehler.com":http://christiekoehler.com - christiekoehler@gmail.com
 
-Sherri Montgomery - pdx.yogini@gmail.com
+Sherri Montgomery - "http://vegannosh.me":http://vegannosh.me - pdx.yogini@gmail.com
 
 This is licensed under a Creative Commons Attribution-ShareAlike license. Please credit Stumptown Syndicate. Have fun planning your event!
