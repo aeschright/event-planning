@@ -173,6 +173,8 @@ h2. This can be done for free or cheap
 
 <% right do %>
 !images/ignite_crowd.jpg!
+
+p(caption). Aaron Hockley
 <% end %>
 
 h1. Register the attendees (ticket sales and more)
