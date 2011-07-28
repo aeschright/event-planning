@@ -72,7 +72,6 @@ h1. What kind of event do you want to have?
 p(caption). Reid Beels
 <% end %>
 
-
 h1. Assemble and organize your team
 
 !images/mayor_and_citizens.jpg!
@@ -151,7 +150,20 @@ p(caption). Reid Beels
 
 h1. Make sure the right people will show up
 
+<% left do %>
 
+h2. This can be done for free or cheap
+
+* Write a reusable announcement
+* Cross-post everywhere
+* Get the whole team involved
+* Ask for help from willing partners&mdash;relevant bloggers, user group leaders, mailing list moderators
+* Postcards, flyers, and stickers are nice if you have funds
+<% end %>
+
+<% right do %>
+!images/ignite_crowd.jpg!
+<% end %>
 
 h1. Register the attendees (ticket sales and more)
 
@@ -161,21 +173,51 @@ p(caption). Reid Beels
 
 h1. Get insurance (when you need it), deal with liability, and respond when things go wrong
 
-!images/creepius.jpg!
+!images/mudshark.jpg!
 
-p(caption). Reid Beels
+p(caption). Audrey Eschright
 
 h1. Design and purchase event materials
 
+<% left do %>
+* Stickers, pins, t-shirts, scarves
+* Event supplies: paper, pens, signage
+<% end %>
 
+<% right do %>
+!images/nate_and_ronin.jpg!
+
+p(caption). Reid Beels
+<% end %>
 
 h1. Communicate with attendees
 
+<% left do %>
+* Your site: set up a blog
+* Twitter and other social media
+* Emails: just don't send too many
+<% end %>
 
+<% right do %>
+!images/noirin.jpg!
 
-h1. Set up on site: fun with venue logistics
+p(caption). Paul Fenwick
+<% end %>
 
+h1. Arrange for wifi, food, A/V, power, and more
 
+* Your venue may provide these
+* Or you could need to contract with outside vendors
+** Consider your budget and the needs of your participants
+** Make sure the vendor is familiar with the space (schedule walkthroughs)
+** Document contact info
+** Get it all in writing
+
+h1. Manage the on-site venue logistics fun
+
+!images/crowd_and_coffee.jpg!
+
+p(caption). Reid Beels
 
 h1. Keep it safe, fun, and welcoming: codes of conduct, after parties, and considerations for serving alcohol
 
@@ -197,7 +239,7 @@ h2. Keep the momentum once your first event is over
 * Gather feedback from attendees
 * Make sure you can contact everyone: collect email addresses, set up a mailing list
 * Schedule a retrospective for your team
-* Make plans for the next event
+* It's never too early to start planning the next event
 
 h1. Find out more
 
@@ -207,12 +249,18 @@ We started an event planning handbook at
 
 h1. Questions?
 
+!images/creepius.jpg!
+
+p(caption). Reid Beels
+
 h1. Thank you!
 
 Stumptown Syndicate - "http://stumptownsyndicate.org":http://stumptownsyndicate.org
 
 Audrey Eschright - "http://lifeofaudrey.com":http://lifeofaudrey.com - spinnerin@gmail.com
 
-Christie Koehler - 
+Christie Koehler - "http://christiekoehler.com":http://christiekoehler.com - christiekoehler@gmail.com
 
-Sherri Montgomery -
+Sherri Montgomery - pdx.yogini@gmail.com
+
+This is licensed under a Creative Commons Attribution-ShareAlike license. Please credit Stumptown Syndicate. Have fun planning your event!
